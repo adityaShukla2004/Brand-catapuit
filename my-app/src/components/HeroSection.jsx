@@ -3,7 +3,7 @@ import heroBanner from "../assets/HomeAssets/heroBanner.png";
 
 function HeroSection() {
   return (
-    <section id="home" className="relative w-full h-[90vh] overflow-hidden bg-white">
+    <section  className="relative w-full h-[90vh] overflow-hidden bg-white">
       {/* Background Image */}
       <img
         src={heroBanner}
@@ -24,7 +24,7 @@ function HeroSection() {
 
          
         </h1>
-          <div className="w-[40%] mx-auto flex items-center justify-between">
+          <div className=" w-[55%] lg:w-[40%] mx-auto flex items-center justify-between">
             <div>
              <p className="block text-[40px] md:text-[70px] lg:text-[80px] font-light uppercase leading-[0.9] text-[#838383]">
             With

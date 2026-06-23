@@ -27,7 +27,7 @@ const ExperienceSection = () => {
         </h2>
 
         {/* Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mt-20">
+        <div className=" grid grid-cols-1 md:grid-cols-3 gap-10 mt-20 ">
           
           <div>
             <h3 className="text-5xl font-bold text-[#2b2b2b]">9+</h3>
